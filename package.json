@@ -1,0 +1,23 @@
+{
+  "name": "atmailer",
+  "version": "1.0.0",
+  "description": "Add attachments from express-fileupload to nodemailer",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalpaj12/atmailer.git"
+  },
+  "keywords": [
+    "express-fileupload",
+    "Nodemailer"
+  ],
+  "author": "Kalpaj Agrawalla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kalpaj12/atmailer/issues"
+  },
+  "homepage": "https://github.com/kalpaj12/atmailer#readme"
+}
