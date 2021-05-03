@@ -1,10 +1,19 @@
 Needed this, creating it.
 
+
 Installation:
+
+
 npm install atmailer
 
 
 Usage:
-const atmailer = require("atmailer");
+
+
+const { atmailer } = require("atmailer");
+
+
 ...
-let attachments = atmailer(req.files);
+
+
+let attachments = atmailer(req.files.file);

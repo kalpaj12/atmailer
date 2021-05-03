@@ -3,6 +3,7 @@
 /*
  * This function returns an attachment array
  * @Input: req.files
+ * @Output: array of attachments, for nodemailer
  */
 function atmailer(files) {
   let attachments = [];
